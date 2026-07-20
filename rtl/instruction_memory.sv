@@ -1,5 +1,5 @@
 module instruction_memory #(
-    parameter int MEM_SIZE = 64,
+    parameter int MEM_SIZE = 32,
     // optional memory initialization file (hex). Leave empty for no init
     parameter string mem_init = ""
 )(
