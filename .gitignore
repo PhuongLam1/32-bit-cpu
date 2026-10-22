@@ -1,0 +1,9 @@
+# simulation build output
+sim_build/
+results.xml
+*.vcd
+*.fst
+
+# python
+__pycache__/
+*.pyc
